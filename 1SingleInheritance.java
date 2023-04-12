@@ -1,3 +1,4 @@
+// java code to implement single inheritance...
 class Animal {
     void bark() {
         System.out.println("barking..........");

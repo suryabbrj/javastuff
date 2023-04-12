@@ -1,4 +1,4 @@
-
+// java code to implement multiple inheritance.
 class TestInheritance implements Printable, Showable {
     public void print() {
         System.out.println("hello World");
